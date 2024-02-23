@@ -22,6 +22,12 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/jaysi-sharma/) and follow me on [Twitter](https://twitter.com/jaysisharma).
 
+## GitHub Stats
+
+![Jaysi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysisharma&show_icons=true&theme=radical)
+
+![Jaysi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysisharma&layout=compact&theme=radical)
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
