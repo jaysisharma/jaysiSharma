@@ -1,7 +1,5 @@
 # Hello, World! 👋 I'm Jaysi Sharma
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaysi)
-
 Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ## About Me
@@ -23,6 +21,10 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysi)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysi&show_icons=true&count_private=true&hide=contribs,issues)
+
+## GitHub Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=jaysi)
 
 ## GitHub Trophies
 
@@ -48,6 +50,10 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaysi&color=brightgreen)
 
 ## Support
 
