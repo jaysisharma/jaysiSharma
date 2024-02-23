@@ -1,20 +1,20 @@
-# Hello, there! 👋 I'm Jaysi Sharma
+# Hello, World! 👋 I'm Jaysi Sharma
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaysi)
 
 Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ## About Me
 
-👨‍💻 I am a DevOps enthusiast and Full-Stack Developer with over 3 years of experience. I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack and Flutter development.
+👨‍💻 I'm a DevOps enthusiast and Full-Stack Developer with a strong focus on MERN (MongoDB, Express.js, React.js, Node.js) stack and Flutter.
 
-🔭 Currently, I am focused on honing my skills in DevOps, microservices, and containerization to build robust and scalable solutions.
+🔭 Currently, I'm honing my skills in DevOps, microservices, and containerization to build robust and scalable solutions.
 
 🌱 Actively learning AWS and various cloud practices to stay ahead in the ever-evolving tech landscape.
 
-🎓 Completed a Bachelor's degree in Computer Science from XYZ University.
+👯 Looking forward to collaborating on cloud-native projects and contributing to innovative solutions.
 
-💼 I have successfully completed 10 projects, including web development and mobile app development, showcasing my proficiency in creating high-quality software solutions.
-
-💬 Passionate about discussing cloud architecture, infrastructure, and best practices. Let's chat about how we can leverage technology to solve real-world problems!
+💬 Passionate about discussing cloud architecture, infrastructure, and best practices. Feel free to reach out for a chat!
 
 📝 Check out my articles on [Medium](https://medium.com/@jaysisharma) where I share insights and experiences from my journey.
 
@@ -34,17 +34,20 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/jaysi-sharma/) and follow me on [Twitter](https://twitter.com/jaysisharma).
 
-## Skills
+## Languages and Tools
 
-- DevOps
-- MERN Stack
-- Flutter
-- AWS
-- Docker
-- Kubernetes
-- Git
-- Jenkins
-- Linux
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Support
 
