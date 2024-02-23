@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Jaysi Sharma
 
-<!--
-**jaysisharma/jaysiSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm a DevOps enthusiast and Full-Stack Developer with a strong focus on MERN (MongoDB, Express.js, React.js, Node.js) stack and Flutter.
+
+🔭 Currently, I'm honing my skills in DevOps, microservices, and containerization to build robust and scalable solutions.
+
+🌱 Actively learning AWS and various cloud practices to stay ahead in the ever-evolving tech landscape.
+
+👯 Looking forward to collaborating on cloud-native projects and contributing to innovative solutions.
+
+💬 Passionate about discussing cloud architecture, infrastructure, and best practices. Feel free to reach out for a chat!
+
+📝 Check out my articles on [Medium](https://medium.com/@jaysisharma) where I share insights and experiences from my journey.
+
+## Connect with Me
+
+📫 Reach out to me via email: [jaysi.sharma@example.com](mailto:jaysi.sharma@example.com)
+
+🌐 Connect on [LinkedIn](https://www.linkedin.com/in/jaysi-sharma/) and follow me on [Twitter](https://twitter.com/jaysisharma).
+
+## Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Support
+
+If you find my work helpful or inspiring, consider supporting me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaysisharma)
