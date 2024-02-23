@@ -1,5 +1,7 @@
 # Hello, World! 👋 I'm Jaysi Sharma
 
+![Profile Views](https://komarev.com/ghpvc/?username=jaysi)
+
 Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ## About Me
@@ -21,10 +23,6 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysi)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysi&show_icons=true&count_private=true&hide=contribs,issues)
-
-## GitHub Contributions
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=jaysi)
 
 ## GitHub Trophies
 
