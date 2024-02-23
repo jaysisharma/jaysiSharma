@@ -16,6 +16,16 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 📝 Check out my articles on [Medium](https://medium.com/@jaysisharma) where I share insights and experiences from my journey.
 
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysi)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysi&show_icons=true&count_private=true&hide=contribs,issues)
+
+## GitHub Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=jaysi)
+
 ## Connect with Me
 
 📫 Reach out to me via email: [jaysi.sharma@example.com](mailto:jaysi.sharma@example.com)
