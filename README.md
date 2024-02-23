@@ -26,6 +26,10 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=jaysi)
 
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaysi)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Connect with Me
 
 📫 Reach out to me via email: [jaysi.sharma@example.com](mailto:jaysi.sharma@example.com)
@@ -44,6 +48,8 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Support
 
