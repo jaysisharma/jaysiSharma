@@ -20,7 +20,8 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysi)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysi&theme=dark)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaysi&show_icons=true&count_private=true&hide=contribs,issues)
 
