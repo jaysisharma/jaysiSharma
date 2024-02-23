@@ -30,9 +30,12 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 ## Connect with Me
 
-📫 Reach out to me via email: [jaysi.sharma@example.com](mailto:jaysi.sharma@example.com)
+📫 Reach out to me via email: [jaysi.sharma@example.com](mailto:jaisysharma9817@gmail.com)
 
-🌐 Connect on [LinkedIn](https://www.linkedin.com/in/jaysi-sharma/) and follow me on [Twitter](https://twitter.com/jaysisharma).
+🌐 Connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/jaysi-sharma-36102825b/)
+- [Twitter](https://twitter.com/jaysisharma)
+- [Medium](https://medium.com/@jaysisharma)
 
 ## Languages and Tools
 
