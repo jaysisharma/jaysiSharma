@@ -18,6 +18,8 @@ Passionate about DevOps and Full-Stack Development | Let's Collaborate!
 
 📝 Check out my articles on [Medium](https://medium.com/@jaysisharma) where I share insights and experiences from my journey.
 
+## Hacktober Fest Badge
+
 [![An image of @jaysisharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaysisharma)](https://holopin.io/@jaysisharma)
 
 ## GitHub Stats
